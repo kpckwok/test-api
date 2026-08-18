@@ -1,8 +1,6 @@
-{
-  "friends": [
+[
     { "id": "1", "name": "Chorong Park", "avatar": "https://picsum.photos/id/1011/200" },
     { "id": "2", "name": "Bomi Yoon", "avatar": "https://picsum.photos/id/1012/200" },
     { "id": "3", "name": "Eunji Jung", "avatar": "https://picsum.photos/id/1025/200" },
     { "id": "4", "name": "Naeun Son", "avatar": "https://picsum.photos/id/1038/200" }
-  ]
-}
+]
