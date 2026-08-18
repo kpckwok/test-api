@@ -1,5 +1,4 @@
 {
-  "new_friends":
   [
     { "id": "req_1", "name": "Namjoo Kim", "avatar": "https://picsum.photos/id/1043/200" },
     { "id": "req_2", "name": "Hayoung Oh", "avatar": "https://picsum.photos/id/1050/200" }
