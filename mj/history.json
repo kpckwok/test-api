@@ -18,7 +18,7 @@
     "players": ["You", "Ben", "Alex", "Sarah"]
   },
   {
-    "id": "rec-4",
+    "game_id": "rec-4",
     "date": "2026-07-04",
     "score": 0,
     "players": ["Alex", "Sarah", "You", "Ben"]
