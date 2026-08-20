@@ -1,0 +1,26 @@
+[
+  {
+    "game_id": "rec-1",
+    "date": "2026-07-15",
+    "score": 3200,
+    "players": ["You", "Alex", "Sarah", "Ben"],
+  },
+  {
+    "game_id": "rec-2",
+    "date": "2026-07-12",
+    "score": -1400,
+    "players": ["Sarah", "You", "Ben", "Alex"],
+  },
+  {
+    "game_id": "rec-3",
+    "date": "2026-07-08",
+    "score": 5800,
+    "players": ["You", "Ben", "Alex", "Sarah"],
+  },
+  {
+    "id": "rec-4",
+    "date": "2026-07-04",
+    "score": 0,
+    "players": ["Alex", "Sarah", "You", "Ben"],
+  }
+]
